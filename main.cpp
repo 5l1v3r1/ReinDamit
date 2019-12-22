@@ -24,14 +24,14 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	config.open("rein.conf");
 
 	if (config.is_open()){
-		if (!config.eof) {
+		if (!config.eof()) {
 			config >> szDllFile;
 		}
-		if (!config.eof) {
+		if (!config.eof()) {
 			config >> szProc;
 		}
 	}
-	config.close;
+	config.close();
 
 	WNDCLASS wc;
 	MSG msg;

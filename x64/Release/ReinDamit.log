@@ -1,7 +1,6 @@
 ﻿  main.cpp
+  rein.cpp
   Code wird generiert.
-  1 of 134 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  All 150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Codegenerierung ist abgeschlossen.
   ReinDamit.vcxproj -> C:\Users\Erarnitox\Desktop\Cheat\CustomTools\Injector\ReinDamit\x64\Release\ReinDamit.exe
