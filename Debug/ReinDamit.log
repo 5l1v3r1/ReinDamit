@@ -1,3 +1,0 @@
-﻿  main.cpp
-main.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /INCREMENTAL:NO ignoriert.
-  ReinDamit.vcxproj -> C:\Users\Erarnitox\Desktop\Cheat\CustomTools\Injector\ReinDamit\Debug\ReinDamit.exe
